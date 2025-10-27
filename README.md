@@ -118,14 +118,25 @@ Follow these steps to use the Clinic Appointment System efficiently:
 7. **Switch Themes**
    - Toggle between **Light Mode** and **Dark Mode** using the theme switcher in the interface for improved visibility and comfort.
 
----
 
 ---
 
 ## 🖼️ Screenshots or Code Snippets
-### 📸 Screenshot
-![Screenshot](images/screenshot.png)
+Below are sample screenshots of the Clinic Appointment System interface:
 
-### 💻 Code Snippet
-```code
-// Sample code here
+#### 🏠 Dashboard
+![Dashboard](images/dashboard.png)
+
+#### 👨‍⚕️ Add Doctor
+![Add Doctor](images/add_doctor.png)
+
+#### 👩‍⚕️ Add Patient
+![Add Patient](images/add_patient.png)
+
+#### 📅 Add Appointment
+![Add Appointment](images/add_appointment.png)
+
+#### 💳 Add Payment
+![Add Payment](images/add_payment.png)
+
+
