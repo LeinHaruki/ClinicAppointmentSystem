@@ -3,7 +3,8 @@
 ---
 
 ## 📘 Description / Overview
-Brief summary of what your midterm project is about.
+The **Clinic Appointment System**, made by **Lein Rhowen Tremor**, is a **Transaction Processing System** designed to manage and organize patient appointments at **Tremor Clinic**.  
+This system provides an efficient way for patients to book, reschedule, or cancel appointments, while allowing clinic staff to monitor schedules and manage records easily.
 
 ---
 
