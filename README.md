@@ -21,7 +21,14 @@ To develop a web-based **Clinic Appointment System** that simplifies the schedul
 ---
 
 ## ⚙️ Features / Functionality
-Describe what your system or program can do.
+- **Dashboard** — provides an overview of key data such as total patients, doctors, appointments, and payments.  
+- **Add Patient** — allows users to register and store patient information in the system.  
+- **Add Doctor** — enables users to record doctor details for appointment assignment.  
+- **Add Appointment** — users can create appointments by selecting a patient, doctor, and specifying the purpose of the visit.  
+- **Add Payment** — records payment details related to confirmed appointments.  
+- **CRUD Operations** — supports Create, Read, Update, and Delete functionalities for patients, doctors, appointments, and payments.  
+- **Light and Dark Mode** — allows users to switch between display themes for better visibility and comfort.  
+- **Data Organization** — integrates all records in a structured database for easy tracking and management.
 
 ---
 
