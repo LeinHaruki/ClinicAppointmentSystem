@@ -33,8 +33,52 @@ To develop a web-based **Clinic Appointment System** that simplifies the schedul
 ---
 
 ## 🧩 Installation Instructions
-Explain how to set up and run your project.
+Follow the steps below to set up and run the Clinic Appointment System on your local machine:
 
+1. **Download or Clone the Project**
+   - Download the ZIP file or clone the repository using (the repository of ACT 1):
+     ```bash
+     git clone https://github.com/LeinHaruki/Duque_Tremor_Act.git
+     ```
+
+2. **Move the Project Folder**
+   - Extract or copy the project folder into the `htdocs` directory of your **XAMPP** installation.  
+     Example path:  
+     ```
+     C:\xampp\htdocs\clinic-appointment-system
+     ```
+
+3. **Start XAMPP Services**
+   - Open the **XAMPP Control Panel**.  
+   - Start **Apache** and **MySQL** modules.
+
+4. **Set Up the Database**
+   - Open your browser and go to:  
+     ```
+     http://localhost/phpmyadmin
+     ```
+   - Create a new database named:  
+     ```
+     clinic_appoinment_system
+     ```
+   - Import the provided SQL file (e.g., `clinic_appoinment_system.sql`) into this database.
+
+5. **Configure Database Connection**
+   - Open the project’s configuration file (e.g., `dbconnect.php` or `connection.php`).
+   - Make sure the following settings match your local environment:
+     ```php
+     $servername = "localhost";
+     $username = "root";
+     $password = "";
+     $dbname = "clinic_appoinment_system";
+     ```
+
+6. **Run the Project**
+   - Open your web browser and navigate to:
+     ```
+     http://127.0.0.1:8000/dashboard
+     ```
+   - The system’s dashboard should now be accessible and ready to use.
 ---
 
 ## 🚀 Usage
