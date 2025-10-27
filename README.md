@@ -82,7 +82,43 @@ Follow the steps below to set up and run the Clinic Appointment System on your l
 ---
 
 ## 🚀 Usage
-Provide simple steps or examples on how to use your project.
+Follow these steps to use the Clinic Appointment System efficiently:
+
+1. **Access the System**
+   - Open your browser and go to:
+     ```
+     http://127.0.0.1:8000/dashboard
+     ```
+   - The system dashboard will display summaries such as total patients, doctors, appointments, and payments.
+
+2. **Add a Patient**
+   - Navigate to the **“Add Patient”** section.  
+   - Fill in the patient’s details (e.g., name, contact information, and other required fields).  
+   - Click **Save** to store the record in the database.
+
+3. **Add a Doctor**
+   - Go to the **“Add Doctor”** section.  
+   - Enter the doctor’s details, including their name, specialization, and contact information.  
+   - Click **Save** to add the doctor to the system.
+
+4. **Add an Appointment**
+   - Open the **“Add Appointment”** page.  
+   - Select an existing patient and doctor from the dropdown lists.  
+   - Specify the **purpose of the appointment** and the **date/time**.  
+   - Click **Submit** to create the appointment record.
+
+5. **Add a Payment**
+   - Go to the **“Add Payment”** section.  
+   - Choose the corresponding appointment and enter payment details (amount, method, etc.).  
+   - Once saved, the appointment will automatically update to reflect the payment status.
+
+6. **View or Update Records**
+   - Each module (Patients, Doctors, Appointments, Payments) allows you to **view, edit, or delete** existing records using the provided action buttons.
+
+7. **Switch Themes**
+   - Toggle between **Light Mode** and **Dark Mode** using the theme switcher in the interface for improved visibility and comfort.
+
+---
 
 ---
 
