@@ -78,7 +78,7 @@ Follow the steps below to set up and run the Clinic Appointment System on your l
      ```
      http://127.0.0.1:8000/dashboard
      ```
-   - The system’s dashboard should now be accessible and ready to use.
+   - The system’s dashboard should now be accessible and the system is ready to use.
 ---
 
 ## 🚀 Usage
