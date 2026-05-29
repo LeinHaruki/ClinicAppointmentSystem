@@ -148,10 +148,6 @@ Below are sample screenshots of the Clinic Appointment System interface:
   BS Information Technology Student  
   Don Mariano Marcos Memorial State University - MLUC  
 
-- **Gilwu Asher Duque**  
-  Co-Developer / Project Partner  
-  BS Information Technology Student  
-  Don Mariano Marcos Memorial State University - MLUC  
 
 ---
 
